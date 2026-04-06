@@ -1,6 +1,6 @@
 # Financial-ratios-analyzer-
-Reusable Python module — 12 financial ratios, Moroccan sector benchmarks, weighted health score, radar chart and bar chart. Validated on Label Vie, Cosumar, CIH Bank.
-# Financial Ratio Analyzer 📊
+Reusable Python module - 12 financial ratios, Moroccan sector benchmarks, weighted health score, radar chart and bar chart. Validated on Label Vie, Cosumar, CIH Bank.
+# Financial Ratio Analyzer 
 
 **A reusable Python module for financial ratio analysis and benchmarking**
 
